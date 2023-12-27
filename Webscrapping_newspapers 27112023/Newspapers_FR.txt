@@ -1,0 +1,10 @@
+    Le Monde,https://www.lemonde.fr/,article__title-label,article a
+    Le Figaro , https://www.lefigaro.fr/, varA, var2
+    Libération , https://www.liberation.fr/, varA, var2
+    Le Parisien , https://www.leparisien.fr/, varA, var2
+    Les Echos , https://www.lesechos.fr/, varA, var2
+    L'Équipe , https://www.lequipe.fr/, varA, var2
+    La Croix , https://www.la-croix.com/, varA, var2
+    Le Huffington Post , https://www.huffingtonpost.fr/, varA, var2
+    20 Minutes , https://www.20minutes.fr/, varA, var2
+    Ouest-France , https://www.ouest-france.fr/, varA, var2
