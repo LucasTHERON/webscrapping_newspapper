@@ -1,0 +1,5 @@
+"name" = Le nom de journal
+"url" = Le lien du journal
+"title_name" = Balise titre de l'article
+"main_container" = Balise ou trouver le titre et l'article
+"content_container" = Balise des paragraphes du contenu de l'article

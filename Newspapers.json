@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/",
+        "title_name": "article__title",
+        "main_container": "article",
+        "content_container": "article__paragraph"
+    },
+    {
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr/",
+        "title_name": "fig-ensemble__title",
+        "main_container": "fig-ensemble",
+        "content_container": "fig-paragraph"
+    }
+]
+  
